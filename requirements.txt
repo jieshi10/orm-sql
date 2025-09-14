@@ -1,0 +1,13 @@
+torch==2.1.2
+transformers==4.36.2
+sqlglot==20.4.0
+nltk==3.8.1
+sqlparse==0.4.4
+func-timeout==4.3.5
+openai
+scikit-learn
+SQLAlchemy
+psycopg2-binary
+pyodbc
+oracledb
+PyMySQL[rsa]
